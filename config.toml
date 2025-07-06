@@ -233,6 +233,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "github"
     url  = "https://github.com/marcodotsh/"
+  
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://mastodon.uno/@macro"
 
   #[[params.social]]
   #  name = "linkedin"
